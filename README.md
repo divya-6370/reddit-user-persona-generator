@@ -23,5 +23,9 @@ This project allows you to generate a **user persona** from any Reddit user’s 
    ```bash
    git clone https://github.com/your-username/reddit-persona-scraper.git
    cd reddit-persona-scraper
+
+   Install The Package
+   pip install selenium webdriver-manager beautifulsoup4
+   
 # reddit-user-persona-generator
 Generate detailed user personas from any public Reddit profile using Python. Extracts age, location, interests, personality, and citation links from posts and comments.
